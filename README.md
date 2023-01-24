@@ -1,7 +1,9 @@
 # python-api-challenge
 
 
-WeatherPy
+WETHERPY
+
+
 In this example, you'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you'll be utilizing a simple Python library, the OpenWeatherMap API, and a little common sense to create a representative model of weather across world cities.
 Your objective is to build a series of scatter plots to showcase the following relationships:
 
@@ -18,10 +20,9 @@ Your final notebook must:
 •	Save both a CSV of all data retrieved and png images for each scatter plot.
 
 
-As final considerations:
+VACATIONPY
 
 
-•	You must complete your analysis using a JupyVacationPy
 Create a heat map that displays the humidity for every city generated from Part I - WeatherPy.
 
 Narrow down the DataFrame to find your ideal weather condition:
